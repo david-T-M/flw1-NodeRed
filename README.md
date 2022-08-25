@@ -31,6 +31,8 @@ Los pasos que tienes que seguir son los siguientes:
 Abre tu navegador favorito
 E introduce la siguien url http://localhost:1880
 
+<img src='./flw1-node-red.png'>
+
 
 
 
