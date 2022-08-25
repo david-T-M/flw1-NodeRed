@@ -25,15 +25,20 @@ $sudo npm install -g --unsafe-perm node-red
 
 $node-red
 
-# Abrir el servicio de node-red en navegador
+# Instrucciones de preparación del entorno
+## Abrir el servicio de node-red en navegador
 
 Los pasos que tienes que seguir son los siguientes:
-Abre tu navegador favorito
+1. Abre tu navegador favorito
 E introduce la siguien url http://localhost:1880
+<img src='./node-red.png'>
 
+2. Importar el flow
+3. Deploy
+
+# Instrucciones de operación
+Para ver el resultado de este flow solo es necesario abrir la pestaña de debug
+
+#Resultados
 <img src='./flw1-node-red.png'>
-
-
-
-
 
